@@ -1,4 +1,4 @@
-=================================
+
    PROJECT REQUIREMENTS
 =================================
 
@@ -17,6 +17,4 @@ Purpose : Numerical computing and array operations
 Library : scikit-learn
 Purpose : Machine learning, preprocessing, and pipelines
 
-=================================
-   END OF REQUIREMENTS
-=================================
+
